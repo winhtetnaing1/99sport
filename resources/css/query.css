@@ -33,10 +33,23 @@
   }
   .text-header {
     width: 100%;
-    font-size: 60%;
+    font-size: 70%;
+  }
+  .btn {
+    font-size: 110%;
+  }
+  .btn-download {
+    padding: 10px 10px;
+    display: inline-block;
+    margin-top: 30px;
+    border-radius: 30px;
+  }
+  .img-header {
+    width: 100%;
+    text-align: center;
   }
   .hero {
-    width: 100%;
+    width: 70%;
     margin-top: 20px;
   }
   .sports {
@@ -71,13 +84,14 @@
     width: 100%;
   }
   li a {
-    font-size: 70%;
+    font-size: 90%;
   }
   h4 {
     font-size: 140%;
   }
   h4 span {
     font-size: 50%;
+    margin-top: 10px;
   }
   .i {
     width: 40px;
@@ -86,7 +100,7 @@
     padding-top: 15px;
   }
   .rule p {
-    font-size: 70%;
+    font-size: 90%;
   }
   .gallery ul {
     display: block;
